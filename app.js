@@ -1,5 +1,5 @@
-const JSON_INPUT = require('./JSON_INPUT.js')
-const JSON_INPUT_ERROR = require('./JSON_INPUT_ERROR.js')
+const JSON_INPUT = require('./JSON_Inputs/JSON_INPUT.js')
+const JSON_INPUT_ERROR = require('./JSON_Inputs/JSON_INPUT_ERROR.js')
 const Error_Input_1 = {};
 const Error_Input_2 = 2;
 
