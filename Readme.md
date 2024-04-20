@@ -8,3 +8,5 @@ cd <project catalogue>
 npm install
 npm run start //thanks to script written in package.json
 ```
+
+### JSON_INPUT.js file is containing the example JSON object , App.js is the main file.
